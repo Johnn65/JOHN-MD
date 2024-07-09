@@ -1,6 +1,6 @@
 {
-  "name": "RAVEN-MD",
-  "description": "𝐍𝐢𝐜𝐤_𝐇𝐮𝐧𝐭𝐞𝐫 Bad influencer",
+  "name": "JOHN-MD",
+  "description": "John Bad influencer",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,13 +14,13 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/HunterNick2/RAVEN-MD#readme",
-  "repository": "https://github.com/HunterNick2/RAVEN-MD.git",
-  "logo": "https://telegra.ph/file/eebe191a0520a79979b34.jpg",
+  "website": "https://github.com/Johnn65/JOHN-MD#readme",
+  "repository": "https://github.com/Johnn65/JOHN-MD.git",
+  "logo": "https://telegra.ph/file/60b3f196e8dfb6c7196fd.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of RAVEN MD Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of JOHN MD Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "required": false
 
     },
