@@ -1,6 +1,6 @@
 # JOHN-𝐌𝐃
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://telegra.ph/file/60b3f196e8dfb6c7196fd.jpg?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+🤖 JOHN-MD🤖;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOHN;PUBLIC+RELESED; ...;TEAM JOHN-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+🤖 JOHN-MD🤖;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOHN;PUBLIC+RELESED; ...;TEAM JOHN-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
